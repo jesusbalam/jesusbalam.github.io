@@ -7,7 +7,6 @@ html, body {
 
 #imagenPerfil{
     position: relative;
-    align-items: baseline;
     width: 200px;
     height: 200px;
     float: left;
