@@ -72,4 +72,5 @@ background-color: #0d7579;
     text-transform: uppercase; /*capitalización texto*/
     font-family: 'Helvetica', sans-serif; /*tipografía texto*/
     border-radius: 50px; /*bordes redondos*/
+    float: left;
 }
